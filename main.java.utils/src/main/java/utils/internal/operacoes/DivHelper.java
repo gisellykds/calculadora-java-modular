@@ -1,4 +1,6 @@
-package main.java.utils.internal;
+package main.java.utils.internal.operacoes;
+
+import main.java.utils.internal.Operacao;
 
 public class DivHelper implements Operacao {
     @Override
