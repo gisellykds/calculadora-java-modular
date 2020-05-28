@@ -23,31 +23,17 @@ public class Helper {
         return div;
     }
 
-    public void setDiv(DivHelper div) {
-        this.div = div;
-    }
-
     public MultHelper getMult() {
         return mult;
     }
 
-    public void setMult(MultHelper mult) {
-        this.mult = mult;
-    }
 
     public SumHelper getSum() {
         return sum;
-    }
-
-    public void setSum(SumHelper sum) {
-        this.sum = sum;
     }
 
     public SubHelper getSub() {
         return sub;
     }
 
-    public void setSub(SubHelper sub) {
-        this.sub = sub;
-    }
 }
