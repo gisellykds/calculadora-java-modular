@@ -1,9 +1,6 @@
 package main.java.utils.internal;
 
-import main.java.utils.internal.operacoes.DivHelper;
-import main.java.utils.internal.operacoes.MultHelper;
-import main.java.utils.internal.operacoes.SubHelper;
-import main.java.utils.internal.operacoes.SumHelper;
+import main.java.utils.internal.operacoes.*;
 
 public class Helper {
 
